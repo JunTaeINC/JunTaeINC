@@ -25,6 +25,8 @@
 
   <br>
 
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juntea3523"/>
+
 <!-- Git -->
   <div>
     <a href="https://github.com/JunTaeINC">
