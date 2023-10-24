@@ -3,10 +3,16 @@
   <h3>I'm JunTae Kim, I am aspiring to become a web back-end developer.
     <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
   </h3>
+  
   <h3>Social</h3>
+  
+  <a target="_blank" href="https://kimjuntae.tistory.com/">
+    <img src="icons/tistory.svg" width="40" />
+  </a>
   <a target="_blank" href="https://velog.io/@juntae_94">
     <img src="icons/velog.svg" width="40" />
   </a>
+  
   <br>
 
   <h3>Having fun with these stack 🧑‍💻</h3>
